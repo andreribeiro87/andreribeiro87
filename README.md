@@ -4,16 +4,19 @@
 <div align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=andreribeiro87&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave"
+      srcset="https://github-readme-stats.vercel.app/api?username=andreribeiro87&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=andreribeiro87&show_icons=true&include_all_commits=true&count_private=true" />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=andreribeiro87&show_icons=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=andreribeiro87&show_icons=true&include_all_commits=true&count_private=true" />
   </picture>
 
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andreribeiro87&layout=compact&langs_count=8&theme=synthwave"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andreribeiro87&layout=compact&langs_count=8&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -23,7 +26,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreribeiro87&layout=compact&langs_count=8" />
   </picture>
 </div>
-  
 
 
 <!--
